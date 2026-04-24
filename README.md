@@ -74,4 +74,4 @@ To build and flash this project, you need the appropriate development environmen
    * `SONiX.SN32F4_DFP.0.0.18.pack` (or version `>= 0.0.18`).
 3. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/DaoDangMinhHoang/Developing-a-Digital-Clock-using-the-SONIX-SN32F407_EVK-Board.git](https://github.com/DaoDangMinhHoang/Developing-a-Digital-Clock-using-the-SONIX-SN32F407_EVK-Board.git)

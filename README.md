@@ -8,7 +8,7 @@ A fully functional digital clock and alarm system built on the **SN32F407_EVK** 
 
 ---
 
-## Key Features (Tính năng chính)
+## Key Features
 
 * **Real-time Clock:** Tracks hours, minutes, and seconds accurately.
 * **Alarm Function:** Built-in buzzer alert for alarms.
@@ -19,7 +19,7 @@ A fully functional digital clock and alarm system built on the **SN32F407_EVK** 
 
 ---
 
-## Hardware Requirements (Phần cứng)
+## Hardware Requirements
 
 * **MCU:** SONiX SN32F407_EVK (or SN8F5708_EVK)
 * **Display:** 7-Segment LED Display
@@ -28,7 +28,7 @@ A fully functional digital clock and alarm system built on the **SN32F407_EVK** 
   * Buzzer (Active High)
   * Status LEDs (Active Low)
 
-### Pin Configuration (Sơ đồ chân)
+### Pin Configuration
 
 | Component | MCU Pin | Description |
 | :--- | :--- | :--- |

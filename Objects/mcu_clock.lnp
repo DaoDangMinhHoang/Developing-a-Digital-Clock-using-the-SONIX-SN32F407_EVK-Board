@@ -1,0 +1,27 @@
+--cpu Cortex-M0
+".\objects\main.o"
+".\objects\adc.o"
+".\objects\cmp.o"
+".\objects\crc.o"
+".\objects\ct16b0.o"
+".\objects\ct16b1.o"
+".\objects\ct16b5.o"
+".\objects\dma.o"
+".\objects\flash.o"
+".\objects\gpio.o"
+".\objects\opa.o"
+".\objects\pfpa.o"
+".\objects\rtc.o"
+".\objects\spi0.o"
+".\objects\sys_con_drive.o"
+".\objects\systick.o"
+".\objects\uart0.o"
+".\objects\uart1.o"
+".\objects\utility.o"
+".\objects\wdt.o"
+".\objects\segment.o"
+".\objects\startup_sn32f400.o"
+".\objects\system_sn32f400.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\mcu_clock.map" -o .\Objects\mcu_clock.axf
